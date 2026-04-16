@@ -21,7 +21,7 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 
 ### 🎯 What I Do
 - 🎨 **Frontend Engineering (Forte)**: Designing polished, user-centric interfaces with strong attention to detail
-- 🛠️ **Full-Stack Development**: Developing structured, scalable applications end-to-end
+- 🤖 **Full-Stack Development**: Developing structured, scalable applications end-to-end
 - 🔗 **System Integration**: Ensuring seamless interaction between frontend and backend systems
 - 🔧 **DevOps & Cloud**: Streamlining deployment with Docker, Git, and cloud platforms
 
@@ -39,7 +39,7 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Machine Learning & Data Science
+### Web Development
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -70,7 +70,11 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishita-dev199&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishita-dev199/nishita-dev199/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishita-dev199/nishita-dev199/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nishita-dev199/nishita-dev199/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -79,13 +83,14 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 
 <div align="center">
 
-| 🎯 **Impact** | 📈 **Metrics** |
-|:---:|:---:|
-| **Setup Time Reduction** | 30% ⚡ |
-| **Data Processing Efficiency** | 50% 📊 |
-| **ML Model Accuracy Improvement** | 30% 🤖 |
-| **Error Rate Reduction** | 25% 🛠️ |
-| **Platform Efficiency Enhancement** | 40% 🚀 |
+|    🎯 **Impact Area**    |                               📈 **Results**                               |
+| :----------------------: | :------------------------------------------------------------------------: |
+|  **System Scalability**  |          Handled 150+ concurrent users with optimized API design          |
+|    **API Performance**   |         Reduced latency and DB load by ~40% using Redis caching         |
+|  **Workflow Automation** |        Cut manual effort by 85% through role-based system design        |
+|  **Query Optimization**  | Improved execution time for large datasets via indexing & restructuring  |
+| **ML Model Performance** |          Achieved >90% accuracy in radar signal classification           |
+
 
 </div>
 
@@ -93,7 +98,7 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 
 ## 🌟 What I'm Currently Working On
 
-- 🔬 **Advanced NLP Research**: Exploring transformer architectures for domain-specific applications
+- 🔬 **Backend Development**: Exploring transformer architectures for domain-specific applications
 - 🚀 **MLOps Pipeline**: Building automated ML deployment workflows
 - 📱 **Open Source Contributions**: Contributing to Python ML libraries
 - 🎓 **Continuous Learning**: Pursuing advanced courses in Deep Learning and Cloud Architecture
