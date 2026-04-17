@@ -120,8 +120,8 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishita-namdeo/)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namdeonishita@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishita-namdeo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namdeonishita@gmail.com)
 
 </div>
 
@@ -135,6 +135,6 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
   
 **⭐ From [nishita-dev199](https://github.com/nishita-dev199) with ❤️**
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"First, solve the problem. Then, write the code" — John Johnson*
 
 </div>
