@@ -85,11 +85,11 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 
 |    🎯 **Impact Area**    |                               📈 **Results**                               |
 | :----------------------: | :------------------------------------------------------------------------: |
-|  **System Scalability**  |          Handled 150+ concurrent users with optimized API design          |
-|    **API Performance**   |         Reduced latency and DB load by ~40% using Redis caching         |
-|  **Workflow Automation** |        Cut manual effort by 85% through role-based system design        |
-|  **Query Optimization**  | Improved execution time for large datasets via indexing & restructuring  |
-| **ML Model Performance** |          Achieved >90% accuracy in radar signal classification           |
+|  **System Scalability**  |        Handled 150+ concurrent users with optimized API architecture        |
+|    **API Performance**   |        Reduced latency & DB load by ~40% using Redis caching               |
+|  **Workflow Automation** |        Reduced manual effort by 85% via role-based system automation       |
+|  **Query Optimization**  |     Improved large dataset query performance through indexing & tuning     |
+| **ML Model Performance** |     Achieved >90% accuracy in radar signal classification (CNN-based)      |
 
 
 </div>
@@ -99,9 +99,9 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 ## 🌟 What I'm Currently Working On
 
 - 🔬 **Backend Development**: Exploring transformer architectures for domain-specific applications
-- 🚀 **MLOps Pipeline**: Building automated ML deployment workflows
-- 📱 **Open Source Contributions**: Contributing to Python ML libraries
-- 🎓 **Continuous Learning**: Pursuing advanced courses in Deep Learning and Cloud Architecture
+- 🚀 **DevOps Pipeline**: Building automated CI/CD workflows
+- 📱 **Open Source Contributions**: Contributing to Open Source projects
+- 🎓 **Continuous Learning**: Pursuing advanced courses in Backend and Cloud Architecture
 
 ---
 
@@ -109,7 +109,7 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 
 - 🧠 I love solving complex algorithmic problems and optimizing code performance
 - 🌍 Passionate about using AI to solve real-world problems
-- 📚 Always learning new technologies and staying updated with the latest in ML/AI
+- 📚 Always learning new technologies and staying updated with the latest in Tech
 - 🎯 Goal-oriented developer who believes in writing clean, maintainable code
 
 ---
@@ -138,38 +138,3 @@ I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-o
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-<div align="center">
-  <h2>🐍 Contributions</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishita-dev199/nishita-dev199/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishita-dev199/nishita-dev199/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nishita-dev199/nishita-dev199/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
--->
