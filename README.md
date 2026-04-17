@@ -17,7 +17,8 @@
 
 > **B.Tech Computer Science Student** at **BML Munjal University** | **Graduated September 2024**
 
-I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-on experience in building scalable solutions, from command-line interfaces to full-stack applications. Currently working remotely at **** and have contributed to innovative projects at **** and ****.
+I'm a passionate **Full Stack Engineer** and **Software Developer** with hands-on experience in building scalable solutions focused on performance optimization and real-world impact. I enjoy solving complex problems and delivering efficient, reliable systems end-to-end.
+
 
 ### 🎯 What I Do
 - 🎨 **Frontend Engineering (Forte)**: Designing polished, user-centric interfaces with strong attention to detail
